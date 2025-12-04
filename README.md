@@ -76,7 +76,7 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 <p align="left" style="margin-bottom: 25px;">
 
   <a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-438fff?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">
