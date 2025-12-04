@@ -1,4 +1,4 @@
-# 🚀 Jaymeen Vaghela  
+#  Jaymeen Vaghela  
 ### Full-Stack Developer | System Architect | Problem Solver | Future Innovator
 
 I’m a passionate Full-Stack Developer focused on building high-performance applications, designing clean architectures, and creating technology that truly solves problems.  
@@ -7,7 +7,7 @@ My development philosophy is simple:
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 - Full-Stack Developer with strong backend & frontend expertise  
 - I think like an engineer → architecture, scalability, performance  
@@ -19,7 +19,7 @@ My development philosophy is simple:
 
 ---
 
-## 🛠️ My Technical Expertise
+##  My Technical Expertise
 
 ### **Frontend Development**
 - React.js, Next.js  
@@ -50,7 +50,7 @@ My development philosophy is simple:
 
 ---
 
-## 🚧 Current Focus Areas
+##  Current Focus Areas
 
 - Microservices & scalable backend architecture  
 - Advanced REST API design  
@@ -60,52 +60,52 @@ My development philosophy is simple:
 
 ---
 
-# 📦 Projects I’ve Built
+#  Projects I’ve Built
 
-### **🔹 V.A.S.U — Virtual Assistant System Uniform**
+### ** V.A.S.U — Virtual Assistant System Uniform**
 A futuristic personal virtual assistant with modular architecture.  
 **Tech:** Flutter, Node.js, Python, Firebase  
 
 ---
 
-### **🔹 Notes API (Production-grade REST API)**
+### ** Notes API (Production-grade REST API)**
 Secure notes service with JWT authentication and CRUD operations.  
 **Tech:** Node.js, Express.js, MongoDB  
 
 ---
 
-### **🔹 School Management System**
+### ** School Management System**
 Multi-role login system for teachers, parents, and admins.  
 **Tech:** Python, Flask, SQL  
 
 ---
 
-### **🔹 Multi-User Messaging Engine**
+### ** Multi-User Messaging Engine**
 Automated CSV-based message delivery system for bulk users.  
 **Tech:** Python, Pandas  
 
 ---
 
-## 📊 My Development Principles
+##  My Development Principles
 
-### **🧼 Clean Code**
+### ** Clean Code**
 Readable, maintainable, scalable.
 
-### **⚙️ Strong Architecture**
+### ** Strong Architecture**
 Layered, modular, and future-proof systems.
 
-### **⚡ Performance First**
+### ** Performance First**
 Fast UIs, optimized queries, efficient APIs.
 
-### **🔒 Security**
+### ** Security**
 Authentication, validation, error-handling & safe data practices.
 
-### **📚 Continuous Learning**
+### ** Continuous Learning**
 Tech evolves — and so do I.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 **Email:** your-email@example.com  
 **LinkedIn:** your-linkedin  
@@ -114,5 +114,5 @@ Tech evolves — and so do I.
 
 ---
 
-## ⭐ If you like my work, star my repositories — your support motivates me!
+##  If you like my work, star my repositories — your support motivates me!
 
