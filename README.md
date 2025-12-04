@@ -48,7 +48,7 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 
 
 ---
-###  Notable Projects
+###  Notable Projects :
 
 - **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
 - **V.A.S.U.** – Virtual Assitant with next level OS integration. 
