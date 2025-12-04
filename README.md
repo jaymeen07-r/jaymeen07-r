@@ -54,7 +54,7 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 
 - **College Hackathon Projects**<br>
       – **Gen AI Exchange Hackathon 2025** – AI-Based Tool for Combate Misinformation.<br>
-      – **SIH Hackathon 2025** – TrueHealth Network is an all-in-one healthcare platform that brings together patients, families, doctors, hospitals, insurance providers, and pharma companies.<br>
+      – **SIH Hackathon 2025** – TrueHealth Network - A Digital Bridge Across the Entire Healthcare System.<br>
       – **ImpactThon 2025** – Focused on social good and sustainability tech solutions.
 
 
