@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+### Current Focus :
 - 🔭 I’m currently working on **[TRINETRA](https://github.com/jaymeen07-r/TRINETRA)**  
 - 🌱 I’m currently learning **Node.js**  
 - 📫 How to reach me **jaymeenvaghela07@gmail.com**
