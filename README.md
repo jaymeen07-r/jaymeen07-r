@@ -48,7 +48,8 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 
 
 ---
-### 🚀 Notable Projects
+###  Notable Projects
+
 - **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
 - **V.A.S.U.** – Virtual Assitant with next level OS integration. 
 
@@ -61,19 +62,7 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 ---
 ### Connect with me :
 
-- [LinkedIn](https://www.linkedin.com/in/jaymeen-vaghela)
-- [Instagram](https://instagram.com/jaymeen_vaghela_264)
-- [Portfolio](https://jaymeen07-r.github.io/jaymeenv/)
-- [Email](mailto:jaymeenvaghela07@gmail.com)
-
-
----
-
-
-
-
-
-<p align="left" style="margin-bottom: 25px;">
+  <p align="center" style="margin-bottom: 50px;">
 
   <a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -93,3 +82,5 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 
 </p>
 
+
+---
