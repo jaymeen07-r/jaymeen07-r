@@ -9,45 +9,21 @@
     Behind every great product is a backend that keeps pushing upward.</h3>
 </p>
 
----
+
 ### Current Focus :
+---
 - 🔭 I’m currently working on **[TRINETRA](https://github.com/jaymeen07-r/TRINETRA)**  
 - 🌱 I’m currently learning **Node.js**  
 - 📫 How to reach me **jaymeenvaghela07@gmail.com**
 
+  
+### About Me :
 ---
+I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with a strong focus on backend development and AI-driven system design. My academic journey is rooted in the legacy of Vidush Somany Institute of Technology and Research, a constituent of Kadi Sarva Vishwavidyalaya Gandhinagar, which carries over a century of philanthropic excellence in education. This heritage inspires my commitment to innovation, empathy, and purpose-driven computing. Alongside my academics, I am the Founder of TRINETRA which is an AI-driven misinformation detection Android application designed to help users identify fake, misleading, or manipulated content across digital platforms. Built with a vision to ensure digital safety, authenticity, and trust, TRINETRA empowers people to make informed decisions in an era where misinformation spreads faster than truth. 
 
-### Connect with me:
-<p align="left">
-  <a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://github.com/jaymeen07-r" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30"    width="40" />
-  </a>
-
-  <a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/725/725643.png" height="30" width="40" />
-  </a>
-
-  <!-- Portfolio Website (Optional) -->
-  <a href="https://yourportfolio.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="40" />
-  </a>
-
-</p>
-
-
-
----
 
 ### Languages and Tools:
-
+---
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
@@ -72,5 +48,26 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
----
 
+### Connect with me :
+---
+<p align="left">
+  <a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/jaymeen07-r" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30"    width="40" />
+  </a>
+  <a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/725/725643.png" height="30" width="40" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="30" width="40" />
+  </a>
+</p>
+
+
+---
