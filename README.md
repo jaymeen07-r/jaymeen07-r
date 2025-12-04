@@ -107,10 +107,10 @@ Tech evolves — and so do I.
 
 ##  Connect With Me
 
-**Email:** your-email@example.com  
-**LinkedIn:** your-linkedin  
-**GitHub:** https://github.com/your-username  
-**Portfolio:** your-portfolio (optional)  
+**Email:** jaymeenvaghela07@gmail.com  
+**LinkedIn:**  https://www.linkedin.com/in/jaymeen-vaghela-a50649377/
+**GitHub:** https://github.com/jaymeen07-r 
+**Portfolio:**  https://jaymeen07-r.github.io/jaymeenv/
 
 ---
 
