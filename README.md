@@ -52,9 +52,9 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 - **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
 - **V.A.S.U.** – Virtual Assitant with next level OS integration. 
 
-- **College Hackathon Projects**
-      – **Gen AI Exchange Hackathon 2025** – AI-Based Tool for Combate Misinformation.
-      – **SIH Hackathon 2025** – TrueHealth Network is an all-in-one healthcare platform that brings together patients, families, doctors, hospitals, insurance providers, and pharma companies.
+- **College Hackathon Projects**<br>
+      – **Gen AI Exchange Hackathon 2025** – AI-Based Tool for Combate Misinformation.<br>
+      – **SIH Hackathon 2025** – TrueHealth Network is an all-in-one healthcare platform that brings together patients, families, doctors, hospitals, insurance providers, and pharma companies.<br>
       – **ImpactThon 2025** – Focused on social good and sustainability tech solutions.
 
 
