@@ -51,12 +51,13 @@ I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with 
 ###  Notable Projects :
 
 - **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
-- **V.A.S.U.** – Virtual Assitant with next level OS integration. 
+- **V.A.S.U.** – Virtual Assitant with next level OS integration.
+- **P.A.R.T.I.C.L.E.** – Virtual Assitant with next level OS integration.  
 
 - **College Hackathon Projects**<br>
       – **Gen AI Exchange Hackathon 2025** – AI-Based Tool for Combate Misinformation.<br>
       – **SIH Hackathon 2025** – TrueHealth Network - A Digital Bridge Across the Entire Healthcare System.<br>
-      – **ImpactThon 2025** – Focused on social good and sustainability tech solutions.
+      – **ImpactThon 2025** – Programmable Atomic Radial Task Interface & Command Logic Engine.
 
 
 ---
