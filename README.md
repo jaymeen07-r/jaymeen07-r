@@ -12,9 +12,10 @@
 ---
 ### Current Focus :
 
-- 🔭 I’m currently working on **[TRINETRA](https://github.com/jaymeen07-r/TRINETRA)**
-- 🌱 I’m currently learning **Node.js**
-- 📫 How to reach me **jaymeenvaghela07@gmail.com**
+- 🔭 Building **[TRINETRA](https://github.com/jaymeen07-r/TRINETRA)** — intelligent systems with deep tech vision  
+- 🌱 Learning Node.js & scalable backend architectures  
+- 💡 Computer Engineer | Founder @ TRINETRA  
+- 🚀 Passionate about AI, system design & futuristic interfaces
 
 
 ---
