@@ -107,6 +107,40 @@ misinformation spreads faster than truth.
 ---
 ### Connect with me :
 
+
+<table>
+<tr>
+  <td>
+    <table>
+      <tr><td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">Gmail</a></td>
+          <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30"/></a></td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table>
+      <tr><td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">Gmail</a></td>
+          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30"/></a></td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table>
+      <tr><td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">Gmail</a></td>
+          <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30"/></a></td>
+      </tr>
+    </table>
+  </td>
+  <td>
+    <table>
+      <tr><td><a href="https://github.com/jaymeen07-r" target="_blank">Gmail</a></td>
+          <td><a href="https://github.com/jaymeen07-r" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="30"/></a></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+</table>
+
 <p align="center" style="margin-bottom: 50px;">
     <a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white" />
