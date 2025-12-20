@@ -82,6 +82,113 @@ misinformation spreads faster than truth.
             width="40" height="40" /></a>
 </p>
 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radar Chart - Skills</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            font-family: Agency FB;
+        }
+        .chart-box {
+            width: 350px;
+            padding: 30px;
+            border-radius: 20px;
+            background: #2a2a2a;
+            box-shadow: 0px 0px 20px rgba(255, 136, 0, 0.2);
+            text-align: center;
+        }
+        .chart-box h2 {
+            margin-bottom: 20px;
+            color: #ff8a00;
+        }
+        canvas {
+            width: 100% !important;
+            height: 100% !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-box">
+        <h2>Skill Level Visualization</h2>
+        <canvas id="skillRadar"></canvas>
+    </div>
+    <script>
+        const ctx = document.getElementById('skillRadar').getContext('2d');
+        new Chart(ctx, {
+            type: 'radar',
+            data: {
+                labels: [
+                    'Python',
+                    'Node.js',
+                    'php',
+                    'Html',
+                    'Css',
+                    'Java Script',
+                    'C',
+                    'Flutter',
+                    'Figma',
+                ],
+                datasets: [{
+                    label: 'My Skills',
+                    data: [95, 60, 50, 90, 85, 85, 60, 80, 50],
+                    fill: true,
+                    backgroundColor: 'rgba(255, 136, 0, 0.3)',
+                    borderColor: '#ff8a00',
+                    pointBackgroundColor: '#ff8a00',
+                    pointBorderColor: '#fff',
+                    pointHoverBackgroundColor: '#fff',
+                    pointHoverBorderColor: '#ff8a00',
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    r: {
+                        angleLines: { color: '#444' },
+                        grid: { color: '#333' },
+                        suggestedMin: 0,
+                        suggestedMax: 100,
+                        ticks: { display: false },
+                        pointLabels: { color: 'white', font: { size: 14 } }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: { color: 'white' }
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function (context) {
+                                const value = context.raw;
+                                let level = '';
+                                if (value <= 50) {
+                                    level = 'Beginner';
+                                } else if (value <= 80) {
+                                    level = 'Intermediate';
+                                } else {
+                                    level = 'Advanced';
+                                }
+                                return `${level} (${value})`;
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+
+
+</body>
+
+</html>
+
 ---
 ### Notable Projects :
 
