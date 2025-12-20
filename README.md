@@ -90,23 +90,24 @@ misinformation spreads faster than truth.
     <img align="left" padding-left="100px" width="300px" src="skills.png" />
 </p><br>
 
-| Skill      | ID                                            |
-| ---------- | ----------------------------------------------|
-| Python     | [![My Skills](https://skillicons.dev/icons?i=python,wasm)](https://skillicons.dev)    |
-| Node.js    | https://skillicons.dev/icons?i=node.js,wasm    |
-| PHP        | https://skillicons.dev/icons?i=php,wasm    |
-| HTML5      | https://skillicons.dev/icons?i=html,wasm    |
-| CSS3       | https://skillicons.dev/icons?i=css,wasm    |
-| JavaScript | https://skillicons.dev/icons?i=js,wasm    |
-| Figma      | https://skillicons.dev/icons?i=figma,wasm    |
-| MongoDB    | https://skillicons.dev/icons?i=mongodb,wasm    |
-| AWS        | https://skillicons.dev/icons?i=aws,wasm    |
-| Firebase   | https://skillicons.dev/icons?i=firebase,wasm    |
-| Docker     | https://skillicons.dev/icons?i=doker,wasm    |
-| Flutter    | https://skillicons.dev/icons?i=flutter,wasm    |
-| Git        | https://skillicons.dev/icons?i=git,wasm    |
-| C          | https://skillicons.dev/icons?i=c,wasm    |
-| Linux      | https://skillicons.dev/icons?i=linux,wasm    |
+| Skill      | Icon |
+| ---------- | ---- |
+| Python     | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
+| Node.js    | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) |
+| PHP        | [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) |
+| HTML5      | [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) |
+| CSS3       | [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |
+| JavaScript | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
+| Figma      | [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
+| MongoDB    | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) |
+| AWS        | [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) |
+| Firebase   | [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) |
+| Docker     | [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) |
+| Flutter    | [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) |
+| Git        | [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) |
+| C          | [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |
+| Linux      | [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) |
+
 
 
 ---
