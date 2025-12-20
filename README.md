@@ -32,17 +32,14 @@ misinformation spreads faster than truth.
 
 
 ---
-## 💻 Known Language & Tools
+###  Known Language & Tools
 
 
 <table>
 <tr>
-  <!-- Image Column -->
   <td>
     <img src="skills.png" width="300px" />
   </td>
-
-  <!-- Frontend Column -->
   <td>
     <b>Frontend</b>
     <table>
@@ -54,8 +51,6 @@ misinformation spreads faster than truth.
       <tr><td>Flutter</td><td><img src="https://skillicons.dev/icons?i=flutter" width="30"/></td></tr>
     </table>
   </td>
-
-  <!-- Backend Column -->
   <td>
     <b>Backend</b>
     <table>
@@ -67,8 +62,6 @@ misinformation spreads faster than truth.
       <tr><td>AWS</td><td><img src="https://skillicons.dev/icons?i=aws" width="30"/></td></tr>
     </table>
   </td>
-
-  <!-- DevOps / Tools Column -->
   <td>
     <b>DevOps / Tools</b>
     <table>
