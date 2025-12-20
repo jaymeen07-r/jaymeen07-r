@@ -90,7 +90,6 @@ misinformation spreads faster than truth.
     <img align="left" padding-left="100px" width="300px" src="skills.png" />
 </p><br>
 
-## 💻 Frontend
 
 | Skill      | Icon |
 | ---------- | ---- |
@@ -100,9 +99,6 @@ misinformation spreads faster than truth.
 | Figma      | [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
 | Flutter    | [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) |
 
----
-
-## 🖥 Backend
 
 | Skill      | Icon |
 | ---------- | ---- |
@@ -113,9 +109,6 @@ misinformation spreads faster than truth.
 | Firebase   | [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) |
 | AWS        | [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) |
 
----
-
-## 🛠 DevOps / Tools
 
 | Skill      | Icon |
 | ---------- | ---- |
