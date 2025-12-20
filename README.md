@@ -21,15 +21,11 @@
 ---
 ### About Me :
 
-I'm currently pursuing my Bachelor of Engineering in Computer Engineering, with a strong focus on backend development
-and AI-driven system design. My academic journey is rooted in the legacy of Vidush Somany Institute of Technology and
-Research, a constituent of Kadi Sarva Vishwavidyalaya Gandhinagar, which carries over a century of philanthropic
-excellence in education. This heritage inspires my commitment to innovation, empathy, and purpose-driven computing.
-Alongside my academics, I am the Founder of TRINETRA which is an AI-driven misinformation detection Android application
-designed to help users identify fake, misleading, or manipulated content across digital platforms. Built with a vision
-to ensure digital safety, authenticity, and trust, TRINETRA empowers people to make informed decisions in an era where
-misinformation spreads faster than truth.
+I am a Computer Engineering undergraduate with a strong passion for backend development and AI-driven system design, focused on building scalable, secure, and intelligent software solutions. I am currently pursuing my Bachelor of Engineering at Vidush Somany Institute of Technology and Research, a constituent of Kadi Sarva Vishwavidyalaya, Gandhinagar—an institution shaped by over a century of philanthropic excellence in education. This legacy fuels my commitment to innovation, integrity, and purpose-driven computing.
 
+Beyond academics, I am the Founder of TRINETRA, an AI-powered misinformation detection Android application built to combat fake, misleading, and manipulated digital content. TRINETRA is designed with a clear mission: to enhance digital safety, authenticity, and trust in an era where misinformation spreads faster than truth. By combining AI, data intelligence, and responsible design, I aim to empower users to make informed decisions and contribute to a more transparent digital ecosystem.
+
+I am driven by the belief that technology should not only be powerful, but meaningful—solving real-world problems with precision, empathy, and impact.
 
 ---
 ###  Known Language & Tools :
