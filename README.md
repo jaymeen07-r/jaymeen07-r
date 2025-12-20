@@ -87,7 +87,12 @@ misinformation spreads faster than truth.
 - **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
 - **V.A.S.U.** – Virtual Assitant with next level OS integration.
 - **V.I.D.Y.A.** – A deep-learning intelligence for limitless understanding.
+
+### Other Projects :
+
 - **P.A.R.T.I.C.L.E.** – A modular virtual OS core for intelligent assistants.
+- **Classsight Pilot** – AI-Based Automatic Report & Document Generator.
+- **SkyWave Flights** – A modular virtual OS core for intelligent assistants.
 
 - **College Hackathon Projects**<br>
 – **Gen AI Exchange Hackathon 2025** – AI-Based Tool for Combate Misinformation.<br>
