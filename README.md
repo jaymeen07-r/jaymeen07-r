@@ -87,7 +87,7 @@ misinformation spreads faster than truth.
 
 
 <pd>
-    <img align="center" padding-left="100px" width="300px" src="skills.png" />
+    <img align="left" padding-left="100px" width="300px" src="skills.png" />
 </p><br>
 
 | Frontend              | Backend                 | DevOps/Tools         |
