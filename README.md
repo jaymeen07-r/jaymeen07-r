@@ -49,9 +49,9 @@ misinformation spreads faster than truth.
       <tr><td>HTML5</td><td><img src="https://skillicons.dev/icons?i=html" width="30"/></td></tr>
       <tr><td>CSS3</td><td><img src="https://skillicons.dev/icons?i=css" width="30"/></td></tr>
       <tr><td>JavaScript</td><td><img src="https://skillicons.dev/icons?i=js" width="30"/></td></tr>
+      <tr><td>Three Js</td><td><img src="https://skillicons.dev/icons?i=threejs" width="30"/></td></tr>
       <tr><td>Figma</td><td><img src="https://skillicons.dev/icons?i=figma" width="30"/></td></tr>
-      <tr><td>Flutter</td><td><img src="https://skillicons.dev/icons?i=flutter" width="30"/></td></tr>   
-      <tr><td>Canva</td><td><img src="https://skillicons.dev/icons?i=canva" width="30"/></td></tr>
+      <tr><td>Flutter</td><td><img src="https://skillicons.dev/icons?i=flutter" width="30"/></td></tr>
     </table>
   </td>
 
