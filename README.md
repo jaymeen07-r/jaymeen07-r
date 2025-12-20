@@ -90,24 +90,39 @@ misinformation spreads faster than truth.
     <img align="left" padding-left="100px" width="300px" src="skills.png" />
 </p><br>
 
+## 💻 Frontend
+
+| Skill      | Icon |
+| ---------- | ---- |
+| HTML5      | [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) |
+| CSS3       | [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |
+| JavaScript | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
+| Figma      | [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
+| Flutter    | [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) |
+
+---
+
+## 🖥 Backend
+
 | Skill      | Icon |
 | ---------- | ---- |
 | Python     | [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
 | Node.js    | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) |
 | PHP        | [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev) |
-| HTML5      | [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) |
-| CSS3       | [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |
-| JavaScript | [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
-| Figma      | [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) |
 | MongoDB    | [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) |
-| AWS        | [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) |
 | Firebase   | [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) |
+| AWS        | [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) |
+
+---
+
+## 🛠 DevOps / Tools
+
+| Skill      | Icon |
+| ---------- | ---- |
 | Docker     | [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) |
-| Flutter    | [![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) |
 | Git        | [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) |
 | C          | [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) |
 | Linux      | [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) |
-
 
 
 ---
