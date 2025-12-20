@@ -144,6 +144,3 @@ misinformation spreads faster than truth.
   </td>
 </tr>
 </table>
-
-
----
