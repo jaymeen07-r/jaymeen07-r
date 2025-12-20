@@ -114,7 +114,7 @@ misinformation spreads faster than truth.
     <table>
       <tr>
           <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a></td>
-          <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank">Gmail</a></td>
+          <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank" text-decoration="none">Gmail</a></td>
       </tr>
     </table>
   </td>
@@ -122,7 +122,7 @@ misinformation spreads faster than truth.
     <table>
       <tr>
           <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a></td>
-          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank">LinkedIn</a></td>
+          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela" target="_blank" text-decoration="none">LinkedIn</a></td>
       </tr>
     </table>
   </td>
@@ -130,7 +130,7 @@ misinformation spreads faster than truth.
     <table>
       <tr>
           <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="30"/></a></td>
-          <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank">Instagram</a></td>
+          <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank" text-decoration="none">Instagram</a></td>
       </tr>
     </table>
   </td>
@@ -138,7 +138,7 @@ misinformation spreads faster than truth.
     <table>
       <tr>
           <td><a href="https://github.com/jaymeen07-r" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30"/></a></td>
-          <td><a href="https://github.com/jaymeen07-r" target="_blank">Github</a></td>
+          <td><a href="https://github.com/jaymeen07-r" target="_blank" text-decoration="none">Github</a></td>
       </tr>
     </table>
   </td>
