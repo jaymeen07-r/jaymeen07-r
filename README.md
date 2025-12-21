@@ -28,7 +28,7 @@ Beyond academics, I am the Founder of **TRINETRA**, an AI-powered misinformation
 I am driven by the belief that technology should not only be powerful, but meaningful—solving real-world problems with precision, empathy, and impact.
 
 ---
-###  Known Language & Tools :
+###  Skills :
 
 
 <table>
