@@ -1,0 +1,35 @@
+name: Update Coding Activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README stats
+        run: |
+          FILE=README.md
+
+          STREAK=$(grep -oP '(?<=<!-- STREAK -->)\d+(?=<!-- STREAK -->)' $FILE)
+          NEW_STREAK=$((STREAK + 1))
+          sed -i "s/<!-- STREAK -->$STREAK<!-- STREAK -->/<!-- STREAK -->$NEW_STREAK<!-- STREAK -->/" $FILE
+
+          HOURS=$(shuf -i6-9 -n1)
+          sed -i "s/<!-- HOURS -->.*<!-- HOURS -->/<!-- HOURS -->$HOURS<!-- HOURS -->/" $FILE
+
+          CONTRIB=$(shuf -i5-20 -n1)
+          sed -i "s/<!-- CONTRIB -->.*<!-- CONTRIB -->/<!-- CONTRIB -->$CONTRIB<!-- CONTRIB -->/" $FILE
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "📈 Update coding activity"
+          git push
