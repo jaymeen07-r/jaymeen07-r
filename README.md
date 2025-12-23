@@ -72,16 +72,14 @@ I am driven by the belief that technology should not only be powerful, but meani
 </tr>
 </table>
 
-### ⚡ Coding Activity Dashboard
+### 🔥 Activity Dashboard
 
-#### 🚀 LeetCode Progress
-🔥 **<!-- STREAK -->0<!-- STREAK --> days**
+#### 🔥 LeetCode Streak: **<!-- STREAK -->0<!-- STREAK -->**
 
-#### ⏰ Yesterday’s Coding Time
-💻 **<!-- HOURS -->0<!-- HOURS --> hours**
+#### 🕒 Last Day Coding Hours: **<!-- HOURS -->0<!-- HOURS -->**
 
-#### 🌱 GitHub Contributions
-📈 **<!-- CONTRIB -->0<!-- CONTRIB --> contributions**
+#### 🟢 GitHub Contributions: **<!-- CONTRIB -->0<!-- CONTRIB -->**
+
 
 
 ---
