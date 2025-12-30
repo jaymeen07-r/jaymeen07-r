@@ -84,7 +84,6 @@ I am driven by the belief that technology should not only be powerful, but meani
 
 - **P.A.R.T.I.C.L.E.** – A modular virtual OS core for intelligent assistants.
 - **Classsight Pilot** – AI-Based Automatic Report & Document Generator.
-- **SkyWave Flights** – A modular virtual OS core for intelligent assistants.
 - **SkyWave Flights** – Modern, Fully responsive flight ticket booking and management website.
 - **Desi Kitchen** – Restaurant QR Ordering System(Mobile Website).
 
