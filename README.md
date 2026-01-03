@@ -99,7 +99,7 @@ I am driven by the belief that technology should not only be powerful, but meani
 I work on multiple projects across **development, research, security, and team collaborations**.  
 Due to the large number of repositories, all projects are maintained in a single organized list.
 
- **View all my projects here:** https://github.com/jaymeen07-r/projects-list
+ **View all my projects here:** [Explore](https://github.com/jaymeen07-r/projects-list)
 
 
 ---
