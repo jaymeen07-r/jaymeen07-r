@@ -94,6 +94,14 @@ I am driven by the belief that technology should not only be powerful, but meani
 – **ImpactThon 2025** – Programmable Atomic Radial Task Interface & Command Logic Engine.
 
 
+### My Projects
+
+I work on multiple projects across **development, research, security, and team collaborations**.  
+Due to the large number of repositories, all projects are maintained in a single organized list.
+
+ **View all my projects here:** https://github.com/jaymeen07-r/projects-list
+
+
 ---
 ### Connect with me :
 
