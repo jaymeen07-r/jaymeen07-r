@@ -127,8 +127,8 @@ Due to the large number of repositories, all projects are maintained in a single
   <td>
     <table>
       <tr>
-          <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="30"/></a></td>
-          <td><a href="https://instagram.com/jaymeen_vaghela_264" target="_blank" text-decoration="none">Instagram</a></td>
+          <td><a href="https://instagram.com/jaymeen07r" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="30"/></a></td>
+          <td><a href="https://instagram.com/jaymeen07r target="_blank" text-decoration="none">Instagram</a></td>
       </tr>
     </table>
   </td>
