@@ -86,6 +86,7 @@ I am driven by the belief that technology should not only be powerful, but meani
 - **Classsight Pilot** – AI-Based Automatic Report & Document Generator.
 - **SkyWave Flights** – Modern, Fully responsive flight ticket booking and management website.
 - **Desi Kitchen** – Restaurant QR Ordering System(Mobile Website).
+- **ApnaChat** – Secuare Chatting Application(Android Application)(flutter application).
 
 - **Hackathon Projects** : <br>
 – **Gen AI Exchange Hackathon 2025** – AI-Based Tool for Combate Misinformation.<br>
