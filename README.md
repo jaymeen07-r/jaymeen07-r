@@ -79,6 +79,7 @@ I am driven by the belief that technology should not only be powerful, but meani
 - **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
 - **V.A.S.U.** – Virtual Assitant with next level OS integration.
 - **V.I.D.Y.A.** – A deep-learning intelligence for limitless understanding.
+- **APNACHAT** – INDIA’s privacy-first messaging platform built for secure, intelligent, and truly personal communication.
 
 ### Other Projects :
 
