@@ -93,6 +93,9 @@ I am driven by the belief that technology should not only be powerful, but meani
 – **SIH Hackathon 2025** – TrueHealth Network - A Digital Bridge Across the Entire Healthcare System.<br>
 – **SSIP Hackathon 2025** – FactWeb AI - AI-Based Help Bot for Information Retrieval from Web Content.<br>
 – **ImpactThon 2025** – Programmable Atomic Radial Task Interface & Command Logic Engine.
+– **Odoo x Gujarat Vidyapith Hackathon '26** – Fleet Matrix – A smart fleet management platform for real-time vehicle tracking, analytics, and operational efficiency.
+
+
 
 
 ### My Projects
