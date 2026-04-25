@@ -107,42 +107,62 @@ Due to the large number of repositories, all projects are maintained in a single
 
 
 ---
-### Connect with me :
 
+## 🚀 Impact View
 
-<table align="center">
+<table>
 <tr>
-  <td>
+  <!-- PROBLEMS -->
+  <td valign="top">
+    <h3 align="center">🧩 Problems</h3>
     <table>
-      <tr>
-          <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a></td>
-          <td><a href="mailto:jaymeenvaghela07@gmail.com" target="_blank" text-decoration="none">Gmail</a></td>
-      </tr>
+      <tr><td>⚠️ Misinformation Spread</td></tr>
+      <tr><td>🔓 Lack of Data Privacy</td></tr>
+      <tr><td>🧠 Complex System Interaction</td></tr>
+      <tr><td>🏫 Inefficient School Management</td></tr>
+      <tr><td>🍽️ Unstructured Food Ordering</td></tr>
+      <tr><td>👴 Elderly Support Gap</td></tr>
+      <tr><td>🎓 Student Productivity Issues</td></tr>
     </table>
   </td>
-  <td>
+
+  <!-- SOLUTIONS -->
+  <td valign="top">
+    <h3 align="center">⚙️ Solutions</h3>
     <table>
-      <tr>
-          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela-a50649377/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a></td>
-          <td><a href="https://www.linkedin.com/in/jaymeen-vaghela-a50649377/" target="_blank" text-decoration="none">LinkedIn</a></td>
-      </tr>
+      <tr><td><b>TRINETRA</b> – AI Misinformation Detection</td></tr>
+      <tr><td><b>APNACHAT</b> – Privacy-first Messaging</td></tr>
+      <tr><td><b>V.A.S.U.</b> – Smart OS Assistant</td></tr>
+      <tr><td><b>Classsight Pilot</b> – School Management System</td></tr>
+      <tr><td><b>MyBite</b> – Food Ordering Platform</td></tr>
+      <tr><td><b>VrudhSeva</b> – Elder Care Support System</td></tr>
+      <tr><td><b>StudentForge</b> – Student Productivity Platform</td></tr>
     </table>
   </td>
-  <td>
+
+  <!-- IMPACT -->
+  <td valign="top">
+    <h3 align="center">🌍 Impact</h3>
     <table>
-      <tr>
-          <td><a href="https://instagram.com/jaymeen07r" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="30"/></a></td>
-          <td><a href="https://instagram.com/jaymeen07r target="_blank" text-decoration="none">Instagram</a></td>
-      </tr>
-    </table>
-  </td>
-  <td>
-    <table>
-      <tr>
-          <td><a href="https://github.com/jaymeen07-r" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="30"/></a></td>
-          <td><a href="https://github.com/jaymeen07-r" target="_blank" text-decoration="none">Github</a></td>
-      </tr>
+      <tr><td>✅ Trusted Digital Content</td></tr>
+      <tr><td>🔐 Secure Communication</td></tr>
+      <tr><td>🤖 Intelligent Automation</td></tr>
+      <tr><td>🏫 Smart Education Systems</td></tr>
+      <tr><td>⚡ Faster Daily Services</td></tr>
+      <tr><td>❤️ Better Elder Support</td></tr>
+      <tr><td>📈 Student Growth & Efficiency</td></tr>
     </table>
   </td>
 </tr>
 </table>
+
+---
+
+## 🤝 Connect with Me
+
+- <img src="https://skillicons.dev/icons?i=gmail" width="16"/> Email: jaymeenvaghela07@gmail.com  
+- <img src="https://skillicons.dev/icons?i=linkedin" width="16"/> LinkedIn: https://linkedin.com/in/jaymeen-vaghela-a50649377  
+- <img src="https://skillicons.dev/icons?i=instagram" width="16"/> Instagram: https://instagram.com/jaymeen07r  
+- <img src="https://skillicons.dev/icons?i=github" width="16"/> GitHub: https://github.com/jaymeen07-r  
+
+---
