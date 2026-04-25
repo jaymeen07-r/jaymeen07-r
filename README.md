@@ -74,37 +74,58 @@ I am driven by the belief that technology should not only be powerful, but meani
 
 
 ---
-### Notable Projects :
 
-- **TRINETRA** – INDIA'S First AI Tool for Combate Misinformation.
-- **V.A.S.U.** – Virtual Assitant with next level OS integration.
-- **V.I.D.Y.A.** – A deep-learning intelligence for limitless understanding.
-- **APNACHAT** – INDIA’s privacy-first messaging platform built for secure, intelligent, and truly personal communication.
+## 🚀 Projects
 
-### Other Projects :
+### 🌟 Featured Projects
 
-- **P.A.R.T.I.C.L.E.** – A modular virtual OS core for intelligent assistants.
-- **Classsight Pilot** – AI-Based Automatic Report & Document Generator.
-- **SkyWave Flights** – Modern, Fully responsive flight ticket booking and management website.
-- **Desi Kitchen** – Restaurant QR Ordering System(Mobile Website).
+- **TRINETRA**  
+  AI-powered misinformation detection system focused on digital trust, authenticity, and content verification  
+  🔗 https://github.com/jaymeen07-r/TRINETRA-public  
 
-- **Hackathon Projects** : <br>
-– **Gen AI Exchange Hackathon 2025** – AI-Based Tool for Combate Misinformation.<br>
-– **SIH Hackathon 2025** – TrueHealth Network - A Digital Bridge Across the Entire Healthcare System.<br>
-– **SSIP Hackathon 2025** – FactWeb AI - AI-Based Help Bot for Information Retrieval from Web Content.<br>
-– **ImpactThon 2025** – Programmable Atomic Radial Task Interface & Command Logic Engine.<br>
-– **Odoo x Gujarat Vidyapith Hackathon '26** – Fleet Matrix – A smart fleet management platform for real-time vehicle tracking, analytics, and operational efficiency.
+- **APNACHAT**  
+  Privacy-first messaging platform built for secure, intelligent, and scalable communication  
 
+- **V.A.S.U.**  
+  Advanced virtual assistant with deep system-level integration and automation capabilities  
 
+- **VrudhSeva**  
+  Elder care support system focused on accessibility, assistance, and real-world usability  
 
+---
 
-### My Projects
+### 🧠 Systems & Research
 
-I work on multiple projects across **development, research, security, and team collaborations**.  
-Due to the large number of repositories, all projects are maintained in a single organized list.
+- **V.I.D.Y.A.** – Deep-learning intelligence system  
+- **P.A.R.T.I.C.L.E.** – Modular virtual OS core for intelligent assistants  
 
- **View all my projects here:** [Explore](https://github.com/jaymeen07-r/projects-list)
+---
 
+### ⚙️ Product & Utility Applications
+
+- **MyBite** – Food ordering platform  
+- **Classsight Pilot** – Smart school management system for automated workflows  
+- **StudentForge** – Student productivity platform  
+- **SkyWave Flights** – Flight booking and management system  
+- **Desi Kitchen** – QR-based restaurant ordering system  
+
+---
+
+### 🏆 Hackathon Experience
+
+- Gen AI Exchange 2025 – AI-based misinformation tool  
+- SIH 2025 – TrueHealth Network (healthcare system)  
+- SSIP 2025 – FactWeb AI (information retrieval system)  
+- ImpactThon 2025 – Programmable task interface engine  
+- Odoo x Gujarat Vidyapith 2026 – Fleet Matrix (fleet management system)  
+
+---
+
+### 📂 All Projects
+
+A complete and organized list of all repositories:
+
+👉 https://github.com/jaymeen07-r/projects-list
 
 ---
 
