@@ -118,7 +118,9 @@ I am driven by the belief that technology should not only be powerful, but meani
 - SSIP 2025 – FactWeb AI (information retrieval system)  
 - ImpactThon 2025 – Programmable task interface engine  
 - Odoo x Gujarat Vidyapith 2026 – Fleet Matrix (fleet management system)  
-
+- Odoo x Kadi Sarva Vishwavidhyalaya 2026 – VendorBridge360 (procurement & vendor management erp)  
+- Odoo Hackathon 2026 –
+  
 ---
 
 ### 📂 All Projects
